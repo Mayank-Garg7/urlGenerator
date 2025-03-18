@@ -1,4 +1,4 @@
-userInput = document.getElementById("input");
+erInput = document.getElementById("input");
 let urlOutput = document.getElementById("output");
 let toggleButton = document.getElementById("toggleButton");
 let searchGenerated = false;
