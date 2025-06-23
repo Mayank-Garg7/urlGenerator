@@ -1,5 +1,5 @@
 # URL Generator
-
+https://github.com/doocs/leetcode/blob/main/solution/0300-0399/0345.Reverse%20Vowels%20of%20a%20String/README_EN.md
 ## Overview
 This is a simple URL generator web application that allows users to generate a Google search URL based on their input and copy it to the clipboard.
 
